@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @ujwalrajeev
 - 👀 I’m interested in gaming, programming, movies, drawing
-- 🌱 I’m currently working as Software Engineer at QBurst
-- 💞️ I’m looking to collaborate on projects that are interesting to me
 - 📫 Reach me by email - ujwalrajeev@gmail.com
 
 <!---
