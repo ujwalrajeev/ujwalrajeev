@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ujwalrajeev
-- 👀 I’m interested in gaming, programming, movies, drawing
+- 👀 I’m interested in science, art, technology, games, etc.
 - 📫 Reach me by email - ujwalrajeev@gmail.com
 
 <!---
